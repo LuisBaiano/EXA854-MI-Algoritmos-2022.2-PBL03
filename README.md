@@ -1,1 +1,5 @@
-# EXA854-MI-Algoritmos-2022.2-PBL03
+# Sistema de Registro de Dados da Copa do Mundo de Futebol 2022
+
+**Abstract**: Looking for ways to follow the games and results of the 2022 football world cup, Zé do Gol, ex-player of the soccer team Fluminense de Feira Futebol Clube proposed to the students of the Computer Engineering Course from the Universidade Estadual de Feira de Santana the creation of a system to register teams, games, results and statistics. The proposed system provokes the creation of a source code for the development of its interface and register in files. For the development, the python language was used. In conclusion, the system does not meet all the requirements that were requested.
+
+**Resumo**: Buscando maneiras para o acompanhamento dos jogos e resultados dos jogos da copa do mundo de futebol de 2022, Zé do Gol, ex-jogador dotime de futebol Fluminense de Feira Futebol Clube propôs aos Alunos do Curso de Engenharia de Computação da Universidade Estadual de Feira de Santana a criação de um sistema de cadastramento de seleções, jogos, resultados e estatísticas. O sistema proposto provoca a criação de um código fonte para o desenvolvimento de sua interface e registro em arquivos. Para o desenvolvimento, foi utilizada a linguagem python. Em conclusão, o sistema não cumpre com todos os requisitos que foram solicitados.
